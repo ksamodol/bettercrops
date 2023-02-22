@@ -1,0 +1,11 @@
+io\github\pks734\bettercrops\compability\v1_16\Handler_1_16_R3.class
+io\github\pks734\bettercrops\AsyncCropExtractor.class
+io\github\pks734\bettercrops\CropGrower.class
+io\github\pks734\bettercrops\ChunkLoadListener.class
+io\github\pks734\bettercrops\compability\VersionHandler.class
+io\github\pks734\bettercrops\Point3D.class
+io\github\pks734\bettercrops\CropInfo.class
+io\github\pks734\bettercrops\ChunkUnloadListener.class
+io\github\pks734\bettercrops\BetterCrops.class
+io\github\pks734\bettercrops\compability\v1_16\Handler_1_16_R2.class
+io\github\pks734\bettercrops\ChunkDefinition.class
