@@ -1,0 +1,4 @@
+name: BetterCrops
+version: 1.0
+main: io.github.ksamodol.bettercrops.BetterCrops
+api-version: 1.16

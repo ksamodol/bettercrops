@@ -1,0 +1,11 @@
+io\github\ksamodol\bettercrops\compability\v1_16\Handler_1_16_R3.class
+io\github\ksamodol\bettercrops\AsyncCropExtractor.class
+io\github\ksamodol\bettercrops\CropGrower.class
+io\github\ksamodol\bettercrops\ChunkLoadListener.class
+io\github\ksamodol\bettercrops\compability\VersionHandler.class
+io\github\ksamodol\bettercrops\Point3D.class
+io\github\ksamodol\bettercrops\CropInfo.class
+io\github\ksamodol\bettercrops\ChunkUnloadListener.class
+io\github\ksamodol\bettercrops\BetterCrops.class
+io\github\ksamodol\bettercrops\compability\v1_16\Handler_1_16_R2.class
+io\github\ksamodol\bettercrops\ChunkDefinition.class
